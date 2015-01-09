@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Prueba Jenkins</title>
     </head>
     <body>
         <h1>Hello Jenkins!</h1>
