@@ -8,6 +8,6 @@
         <title>Prueba Jenkins</title>
     </head>
     <body>
-        <h1>Hello Jenkins!</h1>
+        <h1>Hello Equipo 123</h1>
     </body>
 </html>
